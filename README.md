@@ -1,5 +1,3 @@
-<br/>
-
 ### Hi there, I'm Harshith VA👋
 
 ## I'm a Full Stack Developer!
