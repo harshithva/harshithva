@@ -38,6 +38,8 @@
 <br />
 <br />
 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.harshithva.vercel.app/api?username=harshithva&show_icons=true&hide_border=true" />
+
 [website]: https://vawebsites.in
 [twitter]: https://twitter.com/harshi6666
 [youtube]: https://www.youtube.com/channel/UCs2GJRNl0IEVC45ovwlyRUA
