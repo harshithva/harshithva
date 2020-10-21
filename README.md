@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects!
-- ⚡ Fun fact: I love to cricket and Photo editing
+- ⚡ Fun fact: I love to Cricket and Photo editing
 
 ### Connect with me:
 
