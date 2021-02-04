@@ -7,6 +7,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I love to Code, Play Cricket and Photo editing
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithva&label=Profile%20views&color=0e75b6&style=flat" alt="harshithva" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshithva" alt="harshithva" /></a> </p>
+
 ### Connect with me:
 
 [<img align="left" alt="vawebsites.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://vawebsites.in)
