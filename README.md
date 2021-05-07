@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Hotelstack, College Consultation Projects!
 - 🌱 I’m currently learning everything🤣
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects!
+- 🥅 2021 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I love to Code, Play Cricket and Photoshop.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithva&label=Profile%20views&color=0e75b6&style=flat" alt="harshithva" /> </p>
