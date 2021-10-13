@@ -1,4 +1,4 @@
-### Hi there, I'm Harshith VA👋
+### Hi there, I'm Harshith👋
 
 ## I'm a Full Stack Developer!
 - 🔭 I’m currently working on Hotelstack, College Consultation Projects!
