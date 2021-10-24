@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer!
 - 🔭 I’m currently working on Hotelstack!
 - 🌱 I’m currently learning everything🤣
-- 👯 I’m looking to collaborate with other content creators.
+- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I love to Code, Play Cricket and Photoshop
 
