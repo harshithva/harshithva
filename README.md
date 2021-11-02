@@ -1,4 +1,4 @@
-### Hi there, I'm Harshith👋
+### Hi there, I am Harshith👋
 
 ## I'm a Full Stack Developer!
 - 🔭 I’m currently working on Hotelstack!
