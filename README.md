@@ -1,6 +1,6 @@
 ### Hi there, I am Harshith👋
 
-## I'm a Full Stack Developer
+## I'm a Full Stack Developer!
 - 🔭 I’m currently working on Hotelstack!
 - 🌱 I’m currently learning everything🤣
 - 👯 I’m looking to collaborate with other content creators
