@@ -1,7 +1,7 @@
 ### Hi there, I am Harshith👋
 
 ## I'm a Full Stack Developer!
-- 🌱 I’m currently learning everything🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to Code, Play Cricket and Photoshop
 
