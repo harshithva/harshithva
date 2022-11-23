@@ -3,7 +3,6 @@
 ## I'm a Full Stack Developer!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to Code, Play Cricket and Photoshop
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithva&label=Profile%20views&color=0e75b6&style=flat" alt="harshithva" /> </p>
 
