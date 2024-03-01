@@ -8,14 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshithva" alt="harshithva" /></a> </p>
 
-### Connect with me:
-[<img align="left" alt="vawebsites.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://vawebsites.in)
-[<img align="left" alt="vawebsites.in | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCs2GJRNl0IEVC45ovwlyRUA)
-[<img align="left" alt="vawebsites.in | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/harshi6666)
-[<img align="left" alt="vawebsites.in | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harshith-j-poojary-632b33129)
-[<img align="left" alt="vawebsites.in | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/harshith_va)
-
-<br />
 
 ### Languages and Tools:
 
